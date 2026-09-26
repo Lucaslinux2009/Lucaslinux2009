@@ -31,8 +31,12 @@ I am expanding my knowledge to achieve my professional goals:
 
 #### 💻 ᴏᴘᴇʀᴀᴛɪɴɢ sʏsᴛᴇᴍs & ᴏs
 ![VictuxOS](https://img.shields.io/badge/OS-VictuxOS-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=228B22)
-- **ᴍʏ ᴅʀᴇᴀᴍ:** Create my own Operating System called **VictuxOS**.
+- **ᴍʏ ᴏs ᴅʀᴇᴀᴍ:** Create my own Operating System called **VictuxOS**.
 - **ᴏғғɪᴄɪᴀʟ ᴍᴀsᴄᴏᴛ:** 🐻‍❄️ A **white, chubby polar bear**, sitting in the same classic iconic pose (with yellow paws), honoring and guarding the legacy of the Tux penguin in VictuxOS!
+
+#### ⚙️ ɪɴᴅᴇᴘᴇɴᴅᴇɴᴛ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ & ʟᴀɴɢᴜᴀɢᴇ (ᴅᴀsᴍ & ʜᴀʀᴅ++)
+- **ᴍʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ (ᴅᴀsᴍ):** Create my own custom Assembly-based architecture called **Dasm**.
+- **ᴍʏ ʟᴀɴɢᴜᴀɢᴇ (ʜᴀʀᴅ++):** Create a revolutionary language even lower-level than Assembly called **Hard++**.
 
 #### 🔒 ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ & ʜᴀᴄᴋɪɴɢ
 [![ASM](https://img.shields.io/badge/ASM-0044CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![NASM](https://img.shields.io/badge/NASM-0055CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://github.com)
@@ -47,8 +51,7 @@ I am expanding my knowledge to achieve my professional goals:
 
 ---
 
-### 📊 ɢɪᴛʜᴜʙ sᴛᴀᴛɪsᴛɪᴄs
+### 💻 ᴍᴏsᴛ ᴜsᴇᴅ ʟᴀɴɢᴜᴀɢᴇs
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lucaslinux2009&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslinux2009&layout=compact&theme=dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslinux2009&layout=compact&theme=dark&hide_border=true&langs_count=7&include_all_commits=true" />
 </p>
