@@ -34,8 +34,8 @@ I am expanding my knowledge to achieve my professional goals:
 - **ᴍʏ ᴏs ᴅʀᴇᴀᴍ:** Create my own Operating System called **VictuxOS**.
 - **ᴏғғɪᴄɪᴀʟ ᴍᴀsᴄᴏᴛ:** 🐻‍❄️ A **white, chubby polar bear**, sitting in the same classic iconic pose (with yellow paws), honoring and guarding the legacy of the Tux penguin in VictuxOS!
 
-#### ⚙️ ɪɴᴅᴇᴘᴇɴᴅᴇɴᴛ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ & ʟᴀɴɢᴜᴀɢᴇ (ᴅᴀsᴍ & ʜᴀʀᴅ++)
-- **ᴍʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ (ᴅᴀsᴍ):** Create my own custom Assembly-based architecture called **Dasm**.
+#### ⚙️ ɪɴᴅᴇᴘᴇɴᴅᴇɴᴛ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ & ʟᴀɴɢᴜᴀɢᴇ ( ᴘᴀsᴍ& ʜᴀʀᴅ++)
+- **ᴍʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ (ᴅᴀsᴍ)ᴘʀᴏʙᴀʙɪʟɪsᴛɪᴄ ᴀssᴇᴍʙʟʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ:** Create my own custom Assembly-based architecture called **Dasm**.
 - **ᴍʏ ʟᴀɴɢᴜᴀɢᴇ (ʜᴀʀᴅ++):** Create a revolutionary language even lower-level than Assembly called **Hard++**.
 
 #### 🔒 ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ & ʜᴀᴄᴋɪɴɢ
