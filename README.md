@@ -4,6 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=2500&color=228B22&center=false&vCenter=true&lines=Aspiring+Software+Engineer;Aspiring+Hardware+Engineer;Aspiring+Cybersecurity+%2F+Ethical+Hacker;Creator+of+the+Future+VictuxOS" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=DevOS%20%2F%2Flow-Level%20Ecosystem&fontSize=22&fontColor=228B22&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future%20from%20the%20metal%20up&descSize=13&descColor=8b949e" alt="DevOS Night Banner" />
+</p>
+
 <br>
 
 ---
@@ -35,7 +39,7 @@ I am expanding my knowledge to achieve my professional goals:
 - **ᴏғғɪᴄɪᴀʟ ᴍᴀsᴄᴏᴛ:** 🐻‍❄️ A **white, chubby polar bear**, sitting in the same classic iconic pose (with yellow paws), honoring and guarding the legacy of the Tux penguin in VictuxOS!
 
 #### ⚙️ ɪɴᴅᴇᴘᴇɴᴅᴇɴᴛ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ & ʟᴀɴɢᴜᴀɢᴇ ( ᴘᴀsᴍ & ʜᴀʀᴅ++)
-- **ᴍʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ (ᴘᴀsᴍ)ᴘʀᴏʙᴀʙɪʟɪsᴛɪᴄ ᴀssᴇᴍʙʟʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ:** Create my own custom Assembly-based architecture called **Pasm**.
+- **ᴍʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ (ᴘᴀsᴍ) ᴘʀᴏʙᴀʙɪʟɪsᴛɪᴄ ᴀssᴇᴍʙʟʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ:** Create my own custom Assembly-based architecture called **Pasm**.
 - **ᴍʏ ʟᴀɴɢᴜᴀɢᴇ (ʜᴀʀᴅ++):** Create a revolutionary language even lower-level than Assembly called **Hard++**.
 
 #### 🔒 ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ & ʜᴀᴄᴋɪɴɢ
