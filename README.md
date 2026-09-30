@@ -35,7 +35,7 @@ I am expanding my knowledge to achieve my professional goals:
 - **ᴏғғɪᴄɪᴀʟ ᴍᴀsᴄᴏᴛ:** 🐻‍❄️ A **white, chubby polar bear**, sitting in the same classic iconic pose (with yellow paws), honoring and guarding the legacy of the Tux penguin in VictuxOS!
 
 #### ⚙️ ɪɴᴅᴇᴘᴇɴᴅᴇɴᴛ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ & ʟᴀɴɢᴜᴀɢᴇ ( ᴘᴀsᴍ & ʜᴀʀᴅ++)
-- **ᴍʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ (ᴘᴀsᴍ)ᴘʀᴏʙᴀʙɪʟɪsᴛɪᴄ ᴀssᴇᴍʙʟʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ:** Create my own custom Assembly-based architecture called **Dasm**.
+- **ᴍʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ (ᴘᴀsᴍ)ᴘʀᴏʙᴀʙɪʟɪsᴛɪᴄ ᴀssᴇᴍʙʟʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ:** Create my own custom Assembly-based architecture called **Pasm**.
 - **ᴍʏ ʟᴀɴɢᴜᴀɢᴇ (ʜᴀʀᴅ++):** Create a revolutionary language even lower-level than Assembly called **Hard++**.
 
 #### 🔒 ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ & ʜᴀᴄᴋɪɴɢ
