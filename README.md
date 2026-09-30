@@ -1,4 +1,4 @@
-# 👋 ʜᴇʟʟᴏ, ɪ'ᴍ **ʟᴜᴄᴀs**!
+# 👋 ʜᴇʟʟᴏ, ɪ'ᴍ **ʟᴜᴄᴀꜱ**!
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=2500&color=228B22&center=false&vCenter=true&lines=Aspiring+Software+Engineer;Aspiring+Hardware+Engineer;Aspiring+Cybersecurity+%2F+Ethical+Hacker;Creator+of+the+Future+VictuxOS" alt="Typing SVG" />
@@ -57,5 +57,5 @@ I am expanding my knowledge to achieve my professional goals:
 
 ### 💻 ᴍᴏsᴛ ᴜsᴇᴅ ʟᴀɴɢᴜᴀɢᴇs
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslinux2009&layout=compact&theme=dark&hide_border=true&langs_count=7&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaslinux2009&layout=compact&theme=dark&langs_count=7&title_color=ff6b95&text_color=c9d1d9&bg_color=0d1117&border_color=ff6b95&include_all_commits=true" />
 </p>
