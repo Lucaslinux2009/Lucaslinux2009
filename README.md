@@ -17,7 +17,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&border_radius=12" alt="Linux Badge" />
 </p>
 - **ᴏᴘᴇʀᴀᴛɪɴɢ sʏsᴛᴇᴍs & ʟɪɴᴜx** 🐧 *(My biggest passion and hyperfocus area — for close friends, the Tux penguin and the faithful guardian: the white, chubby polar bear mascot, sitting in the same classic iconic pose with yellow paws)*
-- **ʟɪɴᴜs ᴛᴏʀᴠᴀʟᴅs** *(Great inspiration and creator of Linux — [Linus's GitHub](https://github.com/torvalds))*
+- - **ʟɪɴᴜs ᴛᴏʀᴠᴀʟᴅs** *(Great inspiration and creator of Linux — [Linus's GitHub](https://github.com/torvalds))*
+
 
 ---
 
