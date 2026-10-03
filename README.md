@@ -13,7 +13,9 @@
 ---
 
 ### 💡 ᴍʏ ʜʏᴘᴇʀғᴏᴄᴜs & ᴘᴀssɪᴏɴs 🐧
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+<p align="left">
+  <a href="https://github.com"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&rounded=true" alt="Linux Badge" style="border-radius: 8px;" /></a>
+</p>
 - **ᴏᴘᴇʀᴀᴛɪɴɢ sʏsᴛᴇᴍs & ʟɪɴᴜx** 🐧 *(My biggest passion and hyperfocus area — for close friends, the Tux penguin and the faithful guardian: the white, chubby polar bear mascot, sitting in the same classic iconic pose with yellow paws)*
 - **ʟɪɴᴜs ᴛᴏʀᴠᴀʟᴅs** *(Great inspiration and creator of Linux — [Linus's GitHub](https://github.com/torvalds))*
 
@@ -43,7 +45,11 @@ I am expanding my knowledge to achieve my professional goals:
 - **ᴍʏ ʟᴀɴɢᴜᴀɢᴇ (ʜᴀʀᴅ++):** Create a revolutionary language even lower-level than Assembly called **Hard++**.
 
 #### 🔒 ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ & ʜᴀᴄᴋɪɴɢ
-[![ASM](https://img.shields.io/badge/ASM-0044CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![NASM](https://img.shields.io/badge/NASM-0055CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://github.com)
+<p align="left">
+  <a href="https://github.com"><img src="https://img.shields.io/badge/ASM-0044CC?style=for-the-badge&logo=assemblyscript&logoColor=white&rounded=true" alt="ASM Badge" style="border-radius: 8px;" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/NASM-0055CC?style=for-the-badge&logo=assemblyscript&logoColor=white&rounded=true" alt="NASM Badge" style="border-radius: 8px;" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&rounded=true" alt="WASM Badge" style="border-radius: 8px;" /></a>
+</p>
 
 - **ᴀssᴇᴍʙʟʏ, ɴᴀsᴍ & ᴡᴇʙᴀssᴇᴍʙʟʏ** *(Fundamental for reverse engineering, low-level analysis, and direct hardware interactions)*
 - Advanced concepts in Networking, Operating Systems, and Offensive Security.
