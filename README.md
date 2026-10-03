@@ -13,12 +13,9 @@
 ---
 
 ### 💡 ᴍʏ ʜʏᴘᴇʀғᴏᴄᴜs & ᴘᴀssɪᴏɴs 🐧
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&border_radius=12" alt="Linux Badge" />
-</p>
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 - **ᴏᴘᴇʀᴀᴛɪɴɢ sʏsᴛᴇᴍs & ʟɪɴᴜx** 🐧 *(My biggest passion and hyperfocus area — for close friends, the Tux penguin and the faithful guardian: the white, chubby polar bear mascot, sitting in the same classic iconic pose with yellow paws)*
-- - **ʟɪɴᴜs ᴛᴏʀᴠᴀʟᴅs** *(Great inspiration and creator of Linux — [Linus's GitHub](https://github.com/torvalds))*
-
+- **ʟɪɴᴜs ᴛᴏʀᴠᴀʟᴅs** *(Great inspiration and creator of Linux — [Linus's GitHub](https://github.com/torvalds))*
 
 ---
 
@@ -39,18 +36,14 @@ I am expanding my knowledge to achieve my professional goals:
 #### 💻 ᴏᴘᴇʀᴀᴛɪɴɢ sʏsᴛᴇᴍs & ᴏs
 ![VictuxOS](https://img.shields.io/badge/OS-VictuxOS-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=228B22)
 - **ᴍʏ ᴏs ᴅʀᴇᴀᴍ:** Create my own Operating System called **VictuxOS**.
-- **ᴏғғɪᴄɪᴀʟ ᴍᴀsᴄᴏᴛ:** 🐻‍❄️ A **white, chubby polar bear**, sitting in the same classic iconic pose (with yellow paws), honoring and guarding the legacy of the Tux penguin in VictuxOS!
+- **ᴏғғɪᴄɪᴀʟ ᴍᴀsᴄᴏᴛ:** 🐻‍‍❄️ A **white, chubby polar bear**, sitting in the same classic iconic pose (with yellow paws), honoring and guarding the legacy of the Tux penguin in VictuxOS!
 
 #### ⚙️ ɪɴᴅᴇᴘᴇɴᴅᴇɴᴛ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ & ʟᴀɴɢᴜᴀɢᴇ ( ᴘᴀsᴍ & ʜᴀʀᴅ++)
 - **ᴍʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ (ᴘᴀsᴍ) ᴘʀᴏʙᴀʙɪʟɪsᴛɪᴄ ᴀssᴇᴍʙʟʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ:** Create my own custom Assembly-based architecture called **Pasm**.
 - **ᴍʏ ʟᴀɴɢᴜᴀɢᴇ (ʜᴀʀᴅ++):** Create a revolutionary language even lower-level than Assembly called **Hard++**.
 
 #### 🔒 ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ & ʜᴀᴄᴋɪɴɢ
-<p align="left">
-  <img src="https://img.shields.io/badge/ASM-0044CC?style=for-the-badge&logo=assemblyscript&logoColor=white&border_radius=12" alt="ASM Badge" />
-  <img src="https://img.shields.io/badge/NASM-0055CC?style=for-the-badge&logo=assemblyscript&logoColor=white&border_radius=12" alt="NASM Badge" />
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&border_radius=12" alt="WASM Badge" />
-</p>
+[![ASM](https://img.shields.io/badge/ASM-0044CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![NASM](https://img.shields.io/badge/NASM-0055CC?style=for-the-badge&logo=assemblyscript&logoColor=white)](https://github.com) [![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)](https://github.com)
 
 - **ᴀssᴇᴍʙʟʏ, ɴᴀsᴍ & ᴡᴇʙᴀssᴇᴍʙʟʏ** *(Fundamental for reverse engineering, low-level analysis, and direct hardware interactions)*
 - Advanced concepts in Networking, Operating Systems, and Offensive Security.
