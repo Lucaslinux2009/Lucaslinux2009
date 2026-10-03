@@ -14,7 +14,7 @@
 
 ### 💡 ᴍʏ ʜʏᴘᴇʀғᴏᴄᴜs & ᴘᴀssɪᴏɴs 🐧
 <p align="left">
-  <a href="https://github.com"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&rounded=true" alt="Linux Badge" style="border-radius: 8px;" /></a>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&border_radius=12" alt="Linux Badge" />
 </p>
 - **ᴏᴘᴇʀᴀᴛɪɴɢ sʏsᴛᴇᴍs & ʟɪɴᴜx** 🐧 *(My biggest passion and hyperfocus area — for close friends, the Tux penguin and the faithful guardian: the white, chubby polar bear mascot, sitting in the same classic iconic pose with yellow paws)*
 - **ʟɪɴᴜs ᴛᴏʀᴠᴀʟᴅs** *(Great inspiration and creator of Linux — [Linus's GitHub](https://github.com/torvalds))*
@@ -46,9 +46,9 @@ I am expanding my knowledge to achieve my professional goals:
 
 #### 🔒 ᴄʏʙᴇʀsᴇᴄᴜʀɪᴛʏ & ʜᴀᴄᴋɪɴɢ
 <p align="left">
-  <a href="https://github.com"><img src="https://img.shields.io/badge/ASM-0044CC?style=for-the-badge&logo=assemblyscript&logoColor=white&rounded=true" alt="ASM Badge" style="border-radius: 8px;" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/NASM-0055CC?style=for-the-badge&logo=assemblyscript&logoColor=white&rounded=true" alt="NASM Badge" style="border-radius: 8px;" /></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&rounded=true" alt="WASM Badge" style="border-radius: 8px;" /></a>
+  <img src="https://img.shields.io/badge/ASM-0044CC?style=for-the-badge&logo=assemblyscript&logoColor=white&border_radius=12" alt="ASM Badge" />
+  <img src="https://img.shields.io/badge/NASM-0055CC?style=for-the-badge&logo=assemblyscript&logoColor=white&border_radius=12" alt="NASM Badge" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white&border_radius=12" alt="WASM Badge" />
 </p>
 
 - **ᴀssᴇᴍʙʟʏ, ɴᴀsᴍ & ᴡᴇʙᴀssᴇᴍʙʟʏ** *(Fundamental for reverse engineering, low-level analysis, and direct hardware interactions)*
