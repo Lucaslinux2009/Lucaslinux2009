@@ -34,7 +34,7 @@ I am expanding my knowledge to achieve my professional goals:
 - **ᴄ++** *(Essential for high performance, automation, and direct hardware interaction)*
 
 #### 💻 ᴏᴘᴇʀᴀᴛɪɴɢ sʏsᴛᴇᴍs & ᴏs
-![AerisOS](https://img.shields.io/badge/OS-VictuxOS-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=228B22)
+![AerisOS](https://img.shields.io/badge/OS-AerisOS-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=228B22)
 - **ᴍʏ ᴏs ᴅʀᴇᴀᴍ:** Create my own Operating System called **AerisOS**.
 - **ᴏғғɪᴄɪᴀʟ ᴍᴀsᴄᴏᴛ:** 🐻‍‍❄️ A **white, chubby polar bear**, sitting in the same classic iconic pose (with yellow paws), honoring and guarding the legacy of the Tux penguin in AerisOS!
 
