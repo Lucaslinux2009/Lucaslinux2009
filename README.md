@@ -1,7 +1,7 @@
 # 👋 ʜᴇʟʟᴏ, ɪ'ᴍ **ʟᴜᴄᴀꜱ**!
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=2500&color=228B22&center=false&vCenter=true&lines=Aspiring+Software+Engineer;Aspiring+Hardware+Engineer;Aspiring+Cybersecurity+%2F+Ethical+Hacker;Creator+of+the+Future+VictuxOS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=22&duration=2500&color=228B22&center=false&vCenter=true&lines=Aspiring+Software+Engineer;Aspiring+Hardware+Engineer;Aspiring+Cybersecurity+%2F+Ethical+Hacker;Creator+of+the+Future+AerisOS" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -34,9 +34,9 @@ I am expanding my knowledge to achieve my professional goals:
 - **ᴄ++** *(Essential for high performance, automation, and direct hardware interaction)*
 
 #### 💻 ᴏᴘᴇʀᴀᴛɪɴɢ sʏsᴛᴇᴍs & ᴏs
-![VictuxOS](https://img.shields.io/badge/OS-VictuxOS-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=228B22)
-- **ᴍʏ ᴏs ᴅʀᴇᴀᴍ:** Create my own Operating System called **VictuxOS**.
-- **ᴏғғɪᴄɪᴀʟ ᴍᴀsᴄᴏᴛ:** 🐻‍‍❄️ A **white, chubby polar bear**, sitting in the same classic iconic pose (with yellow paws), honoring and guarding the legacy of the Tux penguin in VictuxOS!
+![AerisOS](https://img.shields.io/badge/OS-VictuxOS-0d1117?style=for-the-badge&logo=gnometerminal&logoColor=228B22)
+- **ᴍʏ ᴏs ᴅʀᴇᴀᴍ:** Create my own Operating System called **AerisOS**.
+- **ᴏғғɪᴄɪᴀʟ ᴍᴀsᴄᴏᴛ:** 🐻‍‍❄️ A **white, chubby polar bear**, sitting in the same classic iconic pose (with yellow paws), honoring and guarding the legacy of the Tux penguin in AerisOS!
 
 #### ⚙️ ɪɴᴅᴇᴘᴇɴᴅᴇɴᴛ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ & ʟᴀɴɢᴜᴀɢᴇ ( ᴘᴀsᴍ & ʜᴀʀᴅ++)
 - **ᴍʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ (ᴘᴀsᴍ) ᴘʀᴏʙᴀʙɪʟɪsᴛɪᴄ ᴀssᴇᴍʙʟʏ ᴀʀᴄʜɪᴛᴇᴄᴛᴜʀᴇ:** Create my own custom Assembly-based architecture called **Pasm**.
